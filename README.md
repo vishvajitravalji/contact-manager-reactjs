@@ -1,6 +1,9 @@
 # You can see project here
 https://contact-manager-reactjs.herokuapp.com/
 
+# For deploying react-app and json-server. Refer:
+https://www.youtube.com/watch?v=DAuHI7bHx1Q
+
 ## Available Scripts
 
 In the project directory, you can run:
